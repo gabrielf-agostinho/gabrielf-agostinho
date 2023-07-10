@@ -13,10 +13,3 @@ Desenvolvedor de software, graduado em Engenharia de Software pelo centro univer
   <a href="https://github.com/gabrielf-agostinho">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielf-agostinho&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-  
-  <br>    
-
-  <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielf-agostinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
