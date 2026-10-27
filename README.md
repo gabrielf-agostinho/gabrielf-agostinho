@@ -36,9 +36,9 @@ Desenvolvimento e manutenção de sistemas web, cobrindo front-end, back-end, ba
 ## Linguagens mais usadas
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielf-agostinho&layout=compact&langs_count=8&hide_border=true&card_width=400&hide=html,css,scss,sass&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielf-agostinho&layout=compact&langs_count=8&hide_border=true&card_width=400&hide=html,css,scss,sass&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielf-agostinho&layout=compact&langs_count=8&hide_border=true&card_width=400&hide=html,css,scss,sass&theme=default" alt="Linguagens mais usadas" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielf-agostinho&layout=compact&langs_count=8&hide_border=true&card_width=400&hide=html%2Ccss%2Cscss%2Csass&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielf-agostinho&layout=compact&langs_count=8&hide_border=true&card_width=400&hide=html%2Ccss%2Cscss%2Csass&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielf-agostinho&layout=compact&langs_count=8&hide_border=true&card_width=400&hide=html%2Ccss%2Cscss%2Csass&theme=default" alt="Linguagens mais usadas" />
 </picture>
 
 ---
